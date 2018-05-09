@@ -1,0 +1,24 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "A simple application that lets you rate campsites!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "campgrounds",
+    "express",
+    "node",
+    "mongodb",
+    "ejs",
+    "passportjs"
+  ],
+  "author": "Kevin Chan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  }
+}
